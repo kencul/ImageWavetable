@@ -2,6 +2,10 @@
 
 A creative audio synthesis project that converts image data into musical wavetables using FFT processing and Csound.
 
+## Demo Video
+
+Watch the project in action: [imgWavetable Demo](https://youtu.be/A_7eaNIVEhw)
+
 ## Overview
 
 imgWavetable transforms visual information from images into unique audio textures by:
